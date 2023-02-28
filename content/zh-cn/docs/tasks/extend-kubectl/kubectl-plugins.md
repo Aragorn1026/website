@@ -57,7 +57,7 @@ own risk, since they are arbitrary programs running on your machine.
 -->
 {{< caution >}}
 Krew [插件索引](https://krew.sigs.k8s.io/plugins/) 所维护的 kubectl 插件并未经过安全性审查。
-你要了解安装和运行第三方插件的安全风险，因为它们本质上时是一些在你的机器上
+你要了解安装和运行第三方插件的安全风险，因为它们本质上是一些在你的机器上
 运行的程序。
 {{< /caution >}}
 
